@@ -7,3 +7,7 @@ This project focuses on detecting and classifying cybersecurity attacks using th
 ### Dataset
 The dataset used in this project is the UNSW-NB15 dataset, which contains realistic network traffic data with labeled attack categories. The dataset includes various features such as packet attributes, connection details, and protocol information, making it a valuable resource for intrusion detection research:
 https://www.kaggle.com/datasets/dhoogla/unswnb15
+
+### Models Used
+- Random Forest
+- XGBoost 
