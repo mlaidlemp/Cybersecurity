@@ -1,5 +1,5 @@
 # Cybersecurity
-UNSW-NB15 Cybersecurity Attack Classification with Machine Learning
+A machine learning model for detecting network intrusions, trained on the UNSW-NB15 dataset to improve network security.
 
 ### Project Overview
 This project focuses on detecting and classifying cybersecurity attacks using the UNSW-NB15 dataset. By leveraging machine learning algorithms, we aim to build a model that can accurately distinguish between normal and malicious network traffic.
